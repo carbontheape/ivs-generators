@@ -5,9 +5,9 @@
 - [PolyZone](https://github.com/qbcore-framework/PolyZone)
 
 # Installation
-Drag and Drop the script into your resource foler
-Go to qb-weathersync/client/client.lua (line 55-56)
-Remove the foloowing natives from the thread:
+- Drag and Drop the script into your resource foler
+- Go to qb-weathersync/client/client.lua (line 55-56)
+- Remove the foloowing natives from the thread:
 ```
 SetArtificialLightsState(blackout)
 SetArtificialLightsStateAffectsVehicles(blackoutVehicle)
