@@ -15,5 +15,7 @@ SetArtificialLightsState(blackout)
 SetArtificialLightsStateAffectsVehicles(blackoutVehicle)
 ```
 
+**Support Discord:** https://discord.com/invite/ivs
+
 # Change Logs
 - 1.0 - Inital release
